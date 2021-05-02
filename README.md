@@ -1,7 +1,7 @@
 # Lua-DataStores
 Simple code to import DataStores in your game, this will also set up a leaderboard in the act.
 
-(If you're using Lua-Roblox please insert this code into a regular Script inside of Game/ServerScripts.
+(If you're using Lua-Roblox please insert this code into a regular Script inside of Game/ServerScriptService
 
 You may have to enable various setting within the game to do with online / multiplayer connections, depending on what software yout using (Epic Games, Roblox etc) and
 there may be a direct way to turn on/off datastores
